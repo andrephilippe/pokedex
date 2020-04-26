@@ -1,0 +1,26 @@
+{
+    "extends": "react-app",
+    "plugins": [
+        "react-hooks"
+    ],
+    "overrides": [
+        {
+            "files": [
+                "**/*.js?(x)"
+            ]
+        }
+    ],
+    "rules": {
+        "semi": [
+            2,
+            "always"
+        ],
+        "quotes": [
+            2,
+            "single",
+            {
+                "avoidEscape": true
+            }
+        ]
+    }
+}

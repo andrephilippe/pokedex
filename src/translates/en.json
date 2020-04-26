@@ -1,0 +1,20 @@
+{
+    "header": {
+        "title": "All Pokémons in one place",
+        "description": "Demo project using the PokeApi service together with React. Pokémon is a registered trademark of Nintendo and we do not have any authorship of it.",
+        "search": {
+            "notFound": "No Pokémon found, try again.",
+            "placeHolder": "Enter with full name of the Pokémon"
+        }
+    },
+    "pokeDetails": {
+        "notFound": "Sorry, we didn't find any information about the reported Pokémon.",
+        "weight": "WEIGHT",
+        "type": "TYPE",
+        "type_plural": "TYPES",
+        "height": "HEIGHT",
+        "forms": "Forms",
+        "defaultForm": "Standard",
+        "abilities": "Abilities"
+    }
+}
