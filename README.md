@@ -9,7 +9,7 @@
 ## Criação
     - CRA
     - React 16.13
-    - Node 12.140
+    - Node 12.14.0
     - Yarn
     
 ## Scripts Disponíveis
